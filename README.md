@@ -25,7 +25,11 @@ Practicas
 
 
 [Toma de requerimientos](https://docs.google.com/document/d/1iuYfCTTP35y7wiOYOp0FwIglXrYBxh6q67wt8ODQctk/edit?usp=sharing)
+
 [Crea tu buyer persona](https://www.figma.com/file/zDKR89w1nbx1i3K8bJ0EFE/Misi%C3%B3n?node-id=0%3A1)
+
 [Publico objetivo](https://www.figma.com/file/zDKR89w1nbx1i3K8bJ0EFE/Misi%C3%B3n?node-id=9%3A2)
+
 [Crea tu primer Wireframe UX](https://www.figma.com/file/zDKR89w1nbx1i3K8bJ0EFE/Misi%C3%B3n?node-id=10%3A8)
+
 [Ahora el UI](https://www.figma.com/file/zDKR89w1nbx1i3K8bJ0EFE/Misi%C3%B3n?node-id=10%3A8)
